@@ -1,0 +1,22 @@
+{
+  "videos": [
+    {
+      "title": "Introduction to Physics",
+      "id": "pDK9NpG91cs"
+    },
+    {
+      "title": "Advanced Physics Concepts",
+      "id": "anotherVideoId"
+    }
+  ],
+  "pdfs": [
+    {
+      "title": "Physics Fundamentals",
+      "link": "https://example.com/physics_fundamentals.pdf"
+    },
+    {
+      "title": "Advanced Physics",
+      "link": "https://example.com/advanced_physics.pdf"
+    }
+  ]
+}
